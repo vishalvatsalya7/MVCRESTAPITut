@@ -1,0 +1,6 @@
+bin/
+obj/
+wwwroot/
+Pages/
+appsettings.Development.json
+appsettings.json
